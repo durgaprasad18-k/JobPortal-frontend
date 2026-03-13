@@ -35,3 +35,19 @@ POST /jobs
 
 npm install
 npm start
+
+
+## Frontend Screenshots
+## Screenshots
+
+### Home Page
+![Home](screenshots/home-page.png)
+
+### Sign Up Page
+![Signup](screenshots/signup-page.png)
+
+### Profile Page
+![Profile](screenshots/profile-page.png)
+
+### Job Listings
+![Jobs](screenshots/jobs-page.png)
