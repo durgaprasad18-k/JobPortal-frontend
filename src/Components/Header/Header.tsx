@@ -55,7 +55,7 @@ const Header = () => {
     return (location.pathname != "/signup" && location.pathname != "/login") ? <div data-aos="zoom-out" className="w-full bg-mine-shaft-950 px-6 text-white h-20 flex justify-between items-center font-['poppins']">
         <div onClick={() => navigate("/")} className="flex gap-1 cursor-pointer items-center text-bright-sun-400">
             <IconAnchor className="h-8 w-8" stroke={2.5} />
-            <div className=" xs-mx:hidden text-3xl font-semibold">JobHook</div>
+            <div className=" xs-mx:hidden text-3xl font-semibold">JobNest</div>
         </div>
         {NavLinks()}
         <div className="flex gap-3 items-center">
